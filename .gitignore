@@ -1,1 +1,4 @@
 .vscode/
+yarn.lock
+package.json.lock
+/songs/yarn.lock
