@@ -30,6 +30,13 @@ The **Store** is the object that brings them together. The store has the followi
 * Install redux library
 > `` npm install --save redux``
 * Install react-redux libary
-> `` npm install --save react-redux ``
+> `` npm install --save react-redux `` <br />
 > **react-redux** library used to talk with redux.
+ 
+### File Structure
+> ``/action`` contains files related to action creators <br />
+> ``/components`` contains files related to components <br />
+> ``/reducers`` contains files related to reducers <br />
+> ``index.js`` set up both the react and redux sides of the app <br />`
+
  
