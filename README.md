@@ -19,4 +19,17 @@ The **Store** is the object that brings them together. The store has the followi
  * Allows state to be updated via dispatch(action);
  * Registers listeners via subscribe(listener);
  * Handles unregistering of listeners via the function returned by subscribe(listener).
+
+# Implementation
+ ## 1. songs/
+ This is an demonstration app. Shows list of songs and it's details
+ 
+ ### Installation
+* Create react-app : songs
+> `` create-react-app songs ``
+* Install redux library
+> `` npm install --save redux``
+* Install react-redux libary
+> `` npm install --save react-redux ``
+> **react-redux** library used to talk with redux.
  
