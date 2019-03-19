@@ -39,4 +39,20 @@ The **Store** is the object that brings them together. The store has the followi
 > ``/reducers`` contains files related to reducers <br />
 > ``index.js`` set up both the react and redux sides of the app <br />`
 
- 
+
+## 2. blog/
+ List of blog post, posted by user.
+
+ ## Installation
+ * Create react-app : blog
+ > ``create-react-app blog``
+ * Install redux library
+ > `` npm install --save redux``
+ * Install react-redux libary
+ > `` npm install --save react-redux `
+ * Install axios library
+ > ``npm install --save axios`` <br />
+ > **axios** Helps us to make network requests
+ * Install redux-thunk library
+ > ``npm install --save redux-thunk`` <br />
+ > **redux-thunk** middleware to help us make request in redux applicaton. 
