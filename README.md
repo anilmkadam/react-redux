@@ -56,3 +56,4 @@ The **Store** is the object that brings them together. The store has the followi
  * Install redux-thunk library
  > ``npm install --save redux-thunk`` <br />
  > **redux-thunk** middleware to help us make request in redux applicaton. 
+ 
