@@ -1,5 +1,5 @@
 # react-redux
-This is the basic tutorial of react-redux. :dart:
+This is the basic tutorial of react-redux. :dart: 
 ---
 
 ## about redux
